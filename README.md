@@ -1,9 +1,4 @@
-# Who are you
-md！居然不让我开 copilot
-
-
-<!--
-以下内容纯属虚构（拿来 C 学生包的），现在通过了，用不上了。
+__以下内容纯属虚构（拿来 C 学生包的），现在通过了，用不上了。__
 
 I am Li Hao，a student in Linyi No.4 High School, I am eager to learn on GitHub and contribute my part to this community.  
 我是临沂四中的一名学生李浩，我渴望在 GitHub 上学习并为这个社区贡献自己的力量。
@@ -16,4 +11,3 @@ My website (Not yet completed) : &nbsp; <https://luminescence.pages.dev> (Cloudf
 
 That's it for now. Thanks for your attention.  
 目前就这样。谢谢你的关注。
--->
